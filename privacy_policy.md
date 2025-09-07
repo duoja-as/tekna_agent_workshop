@@ -1,6 +1,8 @@
-🛡️ Privacy Policy – Spotify GPT Assistant
+🛡️ Privacy Policy – Mood Mix DJ
 
 Effective Date: 2025.09.07
+
+**Spotify API Integration**
 
 This GPT ("Mood Mix DJ") uses Spotify’s API to allow users to create playlists, browse music, and explore personal music data such as top tracks, saved songs, and current playback — all using their own Spotify account.
 
@@ -37,6 +39,15 @@ Spotify is a third-party service governed by its own terms of service and privac
 Spotify Privacy Policy
 
 Spotify Terms of Use
+
+**Suno API Integration**
+
+This service uses the Suno API to generate music based on user prompts.
+	•	Data sent: When you request music generation, the text prompt (and optional fields such as title, style, and tags) is sent securely to the Suno API.
+	•	Data received: The API returns generated audio files, stream URLs, and metadata (e.g., task ID, song title, tags).
+	•	Storage: We do not permanently store your prompts or generated audio. Results are held only for the duration needed to deliver them to you.
+	•	Third-party processing: Suno processes your input according to their own privacy policy. We do not control how they may further process or store data.
+	•	User responsibility: Do not include personal or sensitive information in prompts.
 
 📬 Contact
 
