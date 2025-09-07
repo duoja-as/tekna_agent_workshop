@@ -40,9 +40,9 @@ Spotify Privacy Policy
 
 Spotify Terms of Use
 
-**Suno API Integration**
+**SunoAPI Integration**
 
-This service uses the Suno API to generate music based on user prompts.
+This service uses the SunoAPI.org (a 3rd party API for Suno) to generate music based on user prompts.
 	•	Data sent: When you request music generation, the text prompt (and optional fields such as title, style, and tags) is sent securely to the Suno API.
 	•	Data received: The API returns generated audio files, stream URLs, and metadata (e.g., task ID, song title, tags).
 	•	Storage: We do not permanently store your prompts or generated audio. Results are held only for the duration needed to deliver them to you.
